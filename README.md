@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/a2d03001-2663-472c-9e4b-e2ad9efb70af)
 
-The Attendance Management System is a web-based application developed using PHP and MySQL that enables schools and collages to easily track and manage student attendance. The aim is to develop a web-based application that simplifies the process of tracking and managing student attendance in educational institutions. The system seeks to automate attendance management, making it more efficient, accurate, and accessible to administrators, teachers, and students.
+The Attendance Management System is a web-based application developed using PHP and MySQL that enables schools and collages to easily track and manage student attendance. 
 
 # Technology Stack
 
